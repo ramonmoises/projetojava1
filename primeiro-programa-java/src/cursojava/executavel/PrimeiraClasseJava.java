@@ -2,7 +2,7 @@ package cursojava.executavel;
 
 public class PrimeiraClasseJava {
 	
-	/*main é um método auto executável em Java*/
+	/*main é um método auto executável em Java teste*/
 	public static void main(String[] args) {
 		
 		/*Escreve texto no console*/
